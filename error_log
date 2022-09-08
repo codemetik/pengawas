@@ -1,0 +1,4 @@
+[31-May-2022 12:27:41 Asia/Jakarta] PHP Warning:  require_once(pages/admin/home.php): failed to open stream: No such file or directory in /home/smkg6671/public_html/pengawas/admin.php on line 177
+[31-May-2022 12:27:41 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'pages/admin/home.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/smkg6671/public_html/pengawas/admin.php on line 177
+[31-May-2022 12:27:45 Asia/Jakarta] PHP Warning:  require_once(pages/admin/home.php): failed to open stream: No such file or directory in /home/smkg6671/public_html/pengawas/admin.php on line 163
+[31-May-2022 12:27:45 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'pages/admin/home.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/smkg6671/public_html/pengawas/admin.php on line 163

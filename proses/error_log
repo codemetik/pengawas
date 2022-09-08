@@ -1,0 +1,1 @@
+[27-May-2022 05:50:06 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/smkg6671/public_html/pengawas/koneksi.php on line 7
